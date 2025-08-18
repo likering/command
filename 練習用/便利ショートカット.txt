@@ -20,4 +20,3 @@ link + tab htmlへcssのリンク VSC
 
 ctrl + クリック　リンクを作る VSC
 
-displayで調教する
