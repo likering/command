@@ -1,21 +1,21 @@
 ctrl + s セーブ
 
-alt + shift + f 自動整列
+alt + shift + f 自動整列 VSC
 
 ctrl + か　-　拡大、縮小
 
-! + tab ひな型呼び出し
+! + tab ひな型呼び出し VSC
 
-ctrl + , 設定呼び出し
+ctrl + , 設定呼び出し VSC
 
-ctrl + / コメントアウト
+ctrl + / コメントアウト VSC
 
-alt + z 折り返し設定
+alt + z 折り返し設定 VSC
 
 alt + shift + ↓　コピー
 
 alt + クリック　離れた個所の同時選択
 
-link + tab htmlへcssのリンク
+link + tab htmlへcssのリンク VSC  
 
-ctrl + クリック　リンクを作る
+ctrl + クリック　リンクを作る VSC
