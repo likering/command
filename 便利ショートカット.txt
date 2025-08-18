@@ -19,3 +19,5 @@ alt + クリック　離れた個所の同時選択
 link + tab htmlへcssのリンク VSC  
 
 ctrl + クリック　リンクを作る VSC
+
+displayで調教する
