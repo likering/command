@@ -1,0 +1,21 @@
+ctrl + s セーブ
+
+alt + shift + f 自動整列
+
+ctrl + か　-　拡大、縮小
+
+! + tab ひな型呼び出し
+
+ctrl + , 設定呼び出し
+
+ctrl + / コメントアウト
+
+alt + z 折り返し設定
+
+alt + shift + ↓　コピー
+
+alt + クリック　離れた個所の同時選択
+
+link + tab htmlへcssのリンク
+
+ctrl + クリック　リンクを作る
