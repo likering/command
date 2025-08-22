@@ -3,12 +3,14 @@ ctrl + s セーブ
 alt + shift + f 自動整列 VSC
 
 ctrl + か　-　拡大、縮小
+crtl + マウスホイール　VS用の拡大・縮小
 
 ! + tab ひな型呼び出し VSC
 
 ctrl + , 設定呼び出し VSC
 
 ctrl + / コメントアウト VSC
+// VS用のコメントアウト
 
 alt + z 折り返し設定 VSC
 
@@ -21,3 +23,5 @@ link + tab htmlへcssのリンク VSC
 ctrl + クリック　リンクを作る VSC
 
 displayで調教する VSC
+
+
