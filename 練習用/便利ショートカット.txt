@@ -14,7 +14,10 @@ ctrl + / コメントアウト VSC
 
 alt + z 折り返し設定 VSC
 
-alt + shift + ↓　コピー
+alt + shift + ↓　コピー VSC
+ctrl + c コピー　VS
+ctrl + v 貼りつけVS
+ctrl + d その行をコピー+複製　VS
 
 alt + クリック　離れた個所の同時選択
 
